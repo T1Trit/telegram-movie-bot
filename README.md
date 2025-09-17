@@ -27,8 +27,8 @@
 telegram-movie-bot/
 ├── bot.py              # Основной файл бота
 ├── requirements.txt    # Зависимости
-├── README.md          # Документация
-├── .env.example       # Пример конфигурации
-└── .gitignore         # Игнорируемые файлы
+├── README.md         
+├── .env.example      
+└── .gitignore        
 ```
 
