@@ -21,14 +21,11 @@
 - `/quiz` - Мини-викторина
 
 
-##  Структура проекта
-
-```
+Структура проекта
 telegram-movie-bot/
 ├── bot.py              # Основной файл бота
 ├── requirements.txt    # Зависимости
 ├── README.md         
-├── .env.example      
-└── .gitignore        
-```
+
+
 
